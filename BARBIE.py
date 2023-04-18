@@ -1,4 +1,3 @@
-
 estreno_de_barbie = True
 novio_acompania = False
 
